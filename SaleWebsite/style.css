@@ -1,0 +1,208 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #0f1111;
+    height: 60px;
+}
+
+a {
+    margin-right: 170px;
+}
+
+#logo {
+    font-size: 25px;
+    color: #f08804;
+}
+
+button {
+    background-color: #f08804;
+}
+
+.contentbox1 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+    border: 10px,solid,black;
+}
+
+.contentbox1:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary1.jpg);
+    display: inline-block;
+}
+
+.contentbox2 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox2:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary2.jpg);
+    display: inline-block; }
+    
+    .contentbox3 {
+        height: 200px;
+        width: 199px;
+        display: inline-block;
+        margin: 10px;
+        background-color: blue;
+    }
+    .contentbox3:active {
+        height: 200px;
+        width: 200px;
+        background-size: cover;
+        background-image: url(stationary3.jpg);
+        display: inline-block;
+        margin: 10px;
+    }
+.contentbox4 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox4:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary4.jpg);
+    display: inline-block;
+}
+
+.contentbox5 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox5:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary5.jpg);
+    display: inline-block;
+}
+
+.contentbox6 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox6:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary6.jpg);
+    display: inline-block;
+}
+
+.contentbox7 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox7:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary7.jpg);
+    display: inline-block;
+    background-color: blue;
+}
+
+.contentbox8 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox8:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary8.jpg);
+    display: inline-block;
+}
+
+.contentbox9 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox9:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary9.jpg);
+    display: inline-block;
+}
+
+.contentbox10 {
+    height: 200px;
+    width: 199px;
+    display: inline-block;
+    margin: 10px;
+    background-color: blue;
+}
+
+.contentbox10:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary10.jpg);
+    display: inline-block;
+}
+
+.contentbox11 {
+    height: 200px;
+    width: 199px;
+    background-color: blue;
+    margin: 10px;
+    display: inline-blocK;
+}
+.contentbox11:active {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(stationary11.jpg);
+    display: inline-block;
+}
+
+p {
+    color: black;
+    display: inline;
+}
+
+main {
+    display: flexbox;
+}
